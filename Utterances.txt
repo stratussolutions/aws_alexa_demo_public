@@ -1,0 +1,15 @@
+GateKeeperLaunchIntent Apply security controls
+GateKeeperLaunchIntent Apply security countermeasures
+GateKeeperLaunchIntent Deploy security countermeasures
+GateKeeperLaunchIntent Apply countermeasures
+GateKeeperLaunchIntent Deploy countermeasures
+GateKeeperLaunchIntent Block traffic
+GateKeeperLaunchIntent Isolate web server
+GateKeeperLaunchIntent Isolate instance
+GateKeeperLaunchIntent Block
+
+QueryAlertIntent What's wrong
+QueryAlertIntent What is wrong
+QueryAlertIntent What's going on
+QueryAlertIntent Report alert
+QueryAlertIntent Detail alert
